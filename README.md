@@ -1,4 +1,4 @@
-# CSI3120A Programming Languages Concepts - Assignment 3
+# CSI3120 Programming Languages Concepts - Assignment 3
 
 ## Introduction
 This repository contains the implementation for Assignment 3 of the CSI3120A Programming Languages Concepts course. The aim is to develop a referencing environment builder for a simplified programming language, focusing on constructing a referencing environment for variable definition verification and redefinition detection.
